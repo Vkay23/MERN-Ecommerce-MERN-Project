@@ -10,7 +10,7 @@ function Footer() {
         <div className="footer-section contact">
             <h3>Contact Us</h3>
             <p><Phone fontSize='small'/>Phone : +9865467888</p>
-            <p><Mail fontSize='small'/>Email : khanamtestad@gmail.com</p>
+            <p><Mail fontSize='small'/>Email : vamseerathod57@gmail.com</p>
         </div>
 
         {/* Section2 */}
@@ -39,7 +39,7 @@ function Footer() {
         </div>
     </div>
     <div className="footer-bottom">
-        <p>&copy; 2025 KhanamCoding . All rights reserved</p>
+        <p>&copy; 2026 VamseeCoding . All rights reserved</p>
     </div>
    </footer>
   )
